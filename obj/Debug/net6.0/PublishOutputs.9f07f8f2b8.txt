@@ -1,0 +1,11 @@
+c:\dockkk\apidock\obj\Docker\publish\apidock.exe
+c:\dockkk\apidock\obj\Docker\publish\appsettings.Development.json
+c:\dockkk\apidock\obj\Docker\publish\appsettings.json
+c:\dockkk\apidock\obj\Docker\publish\apidock.dll
+c:\dockkk\apidock\obj\Docker\publish\apidock.deps.json
+c:\dockkk\apidock\obj\Docker\publish\apidock.runtimeconfig.json
+c:\dockkk\apidock\obj\Docker\publish\apidock.pdb
+c:\dockkk\apidock\obj\Docker\publish\Microsoft.OpenApi.dll
+c:\dockkk\apidock\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+c:\dockkk\apidock\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\dockkk\apidock\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
